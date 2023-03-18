@@ -26,3 +26,9 @@ Your task is to do the following:
 
 - Define relevant KPIs in hiring, promotion, performance and turnover, and create a visualisation.
 - Write what you think some root causes of their slow progress might be.
+
+# Report/Dashboard
+
+<img width="auto" alt="Diversity-Inclusion-1" src="https://user-images.githubusercontent.com/89727196/226085256-921c8043-c254-4cf0-a688-eccccbd4deb2.png">
+
+<img width="auto" alt="Diversity-Inclusion-2" src="https://user-images.githubusercontent.com/89727196/226085253-ace7200f-0ecb-4542-b95d-11c2e95af0bf.png">
