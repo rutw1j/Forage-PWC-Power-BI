@@ -15,4 +15,4 @@ Possible KPIs include (to get you started, but not limited to):
 
 # Report/Dashboard
 
-<img width="616" alt="Call Center Dashboard" src="https://user-images.githubusercontent.com/89727196/226085123-79cd52b4-bb0e-4158-a701-a2701b842827.png">
+<img width="auto" alt="Call Center Dashboard" src="https://user-images.githubusercontent.com/89727196/226085123-79cd52b4-bb0e-4158-a701-a2701b842827.png">
