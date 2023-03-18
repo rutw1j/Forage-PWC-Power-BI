@@ -22,6 +22,6 @@ Your colleague, the engagement partner, asks you to do the following tasks:
 
 # Report/Dashboard
 
-<img width="auto" alt="Customer Risk Analysis" src="https://user-images.githubusercontent.com/89727196/226085206-6d6a6436-2eac-48c3-bdf9-92201391e021.png">
-
 <img width="auto" alt="Customer Retention Dashboard" src="https://user-images.githubusercontent.com/89727196/226085207-5ddfbaf8-170f-4efa-b96a-e2419bd8a619.png">
+
+<img width="auto" alt="Customer Risk Analysis" src="https://user-images.githubusercontent.com/89727196/226085206-6d6a6436-2eac-48c3-bdf9-92201391e021.png">
